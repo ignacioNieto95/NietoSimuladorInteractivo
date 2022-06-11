@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #222831;
+}
+
+.hero{
+    background-color: #393E46;
+}
+
+.nosotros{
+    background-color: #EEEEEE;
+}
+
+.presencias{
+    background-color: #393E46;
+}
+
+footer{
+    background-color: #FFD369;
+}
